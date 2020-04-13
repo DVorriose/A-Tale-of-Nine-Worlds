@@ -82,7 +82,7 @@ WARNING 3: This pack is very close to the ID limit, and not compatible with Just
 
 	WORLD
   - Open Terrain Generator (OTG)			[team_otg]
-	- Biome Bundle						         [ mc_pitman]
+	- Biome Bundle						         [mc_pitman]
   - The Lost Cities						        [McJty]
   - AmbientSounds 3				        		[CreativeMD]
   - Nyx								              	[Ellpeck]
@@ -98,180 +98,180 @@ WARNING 3: This pack is very close to the ID limit, and not compatible with Just
   - Mo' Glowstone					        		[TheMasterGeneral]
   
   BUILDING/DECO
-  - Effortless Building				      	Requioss
-  - Recurrent Complex				      		Ivorforce
-  - Custom NPCs						          	Noppes_
-  - Custom NPCs Spawner			      		Jaredlll08
-  - LittleTiles						          	CreativeMD
-  - ArchitectureCraft			      			darkevilmac
-  - Particle Spreader			      			KidsDontPlay
-  - Rustic								            mangoose3039
-  - BiblioCraft						          	Nuchaz
-  - Inspirations					        		KnightMiner
-  - Beadspreads						          	TheIllusiveC4
-  - Double Slabs					        		CJMinecraft01
-  - Paintings ++					        		AbsolemJackdaw
-  - Pumpkin Carving						        cleverpanda714
-  - Industrial Foregoing			    		Buuz135
+  - Effortless Building				      	[Requioss]
+  - Recurrent Complex				      		[Ivorforce]
+  - Custom NPCs						          	[Noppes_]
+  - Custom NPCs Spawner			      		[Jaredlll08]
+  - LittleTiles						          	[CreativeMD]
+  - ArchitectureCraft			      			[darkevilmac]
+  - Particle Spreader			      			[KidsDontPlay]
+  - Rustic								            mangoose3039]
+  - BiblioCraft						          	[Nuchaz]
+  - Inspirations					        		[KnightMiner]
+  - Beadspreads						          	[TheIllusiveC4]
+  - Double Slabs					        		[CJMinecraft01]
+  - Paintings ++					        		[AbsolemJackdaw]
+  - Pumpkin Carving						        [cleverpanda714]
+  - Industrial Foregoing			    		[Buuz135]
   
 	PROGRESSION CORE
-  - PrimalCore							          Aun_Sar	
-  	- Kitsu's Forgecraft		      		KitsuShadow
-  - Heat And Climate				      		defeatedcrow
-  - Advanced Rocketry 		      			zmaster587
-  - WarpDrive							          	LemADEC
-  	- CC: Tweaked					           	SquidDev
+  - PrimalCore							          [Aun_Sar]	
+  	- Kitsu's Forgecraft		      		[KitsuShadow]
+  - Heat And Climate				      		[defeatedcrow]
+  - Advanced Rocketry 		      			[zmaster587]
+  - WarpDrive							          	[LemADEC]
+  	- CC: Tweaked					           	[SquidDev]
 
 	PROGRESSION ALTERNATIVES
-  - Mystical Mechanics API		    		BordListian
-  	- Mystical Gears					        RCXcrafter
-  - Botania								            Vazkii
-	  - Natural Pledge				        	wiresegal
-	  - Incorporeal					          	quat1024
-  - Embers Rekindled					      	BordListian
-  	- Soot							            	BordListian
-  	- Aetherworks					          	v0idwa1k3r
-  - Immersive Engineering				     	BluSunrize
-  	- Immersive Petroleum			      	Flaxbeard
-  	- Engineer's Decor			      		wilechaote
-  	- Alternating Flux			      		AntiBlueQuirk
-  - Thaumcraft					          		Azanor13
-  	- Thaumic Additions: Reconstructed	Zeitheron
-  	- Thaumic Augmentation			    	TheCodex6824
-  	- Crimson Revelations			      	mobiusflip
-  	- Crimson Warfare 			      		Ta6e
-  - Matter Overdrive: Legacy Edition	HRZNStudio
-  - NuclearCraft						        	tomdodd4598
-  - RFTools							            	McJty
-  - XNet								            	McJty
+  - Mystical Mechanics API		    		[ordListian]
+  	- Mystical Gears					        [RCXcrafter]
+  - Botania								            [Vazkii]
+	  - Natural Pledge				        	[wiresegal]
+	  - Incorporeal					          	[quat1024]
+  - Embers Rekindled					      	[BordListian]
+  	- Soot							            	[BordListian]
+  	- Aetherworks					          	[v0idwa1k3r]
+  - Immersive Engineering				     	[BluSunrize]
+  	- Immersive Petroleum			      	[Flaxbeard]
+  	- Engineer's Decor			      		[wilechaote]
+  	- Alternating Flux			      		[AntiBlueQuirk]
+  - Thaumcraft					          		[Azanor13]
+  	- Thaumic Additions: Reconstructed	[Zeitheron]
+  	- Thaumic Augmentation			    	[TheCodex6824]
+  	- Crimson Revelations			      	[mobiusflip]
+  	- Crimson Warfare 			      		[Ta6e]
+  - Matter Overdrive: Legacy Edition	[RZNStudio]
+  - NuclearCraft						        	[tomdodd4598]
+  - RFTools							            	[McJty]
+  - XNet								            	[McJty]
 
 	NON-PROGRESSION
-  - Magic Kingdoms Mod			      		pale_imitations
-  - Astral Sorcery					        	HellFirePvP
-  - Bewitchment						          	sunconure11
-  - Fossils and Archeology Revival		_ForgeUser18449974
-  - Avatar Mod 2: Out of the Iceberg	FavouriteDragon
-  - Robotic Parts					        		Aun_Sar
-  	-ReWIRED					            		mallrat208
-  - Sync							            		ohaiiChun
-  - Nomadic Tents							        skyjay1
-  - Better Railroads					      	Creator6
-  - Charset Storage - Barrels			   	asiekierka
-  - Charset STorage - Chests		  		asiekierka
-  - Charset Storage - Carts and Rails	asiekierka
-  - Corail Tombstone					      	Corail_31
-  - Quality Tools						        	tmtravlr
-  - Not Enough Pets					        	AstroTibs
+  - Magic Kingdoms Mod			      		[pale_imitations]
+  - Astral Sorcery					        	[HellFirePvP]
+  - Bewitchment						          	[sunconure11]
+  - Fossils and Archeology Revival		[_ForgeUser18449974]
+  - Avatar Mod 2: Out of the Iceberg	[FavouriteDragon]
+  - Robotic Parts					        		[Aun_Sar]
+  	-ReWIRED					            		[mallrat208]
+  - Sync							            		[ohaiiChun]
+  - Nomadic Tents							       [skyjay1]
+  - Better Railroads					      	[Creator6]
+  - Charset Storage - Barrels			   	[asiekierka]
+  - Charset STorage - Chests		  		[asiekierka]
+  - Charset Storage - Carts and Rails	[asiekierka]
+  - Corail Tombstone					      	[Corail_31]
+  - Quality Tools						        	[tmtravlr]
+  - Not Enough Pets					        	[AstroTibs]
   
 	MOBS
-  - Primitive Mobs					        	Daveyx0
-  - Abyssal Depths					        	Chumbanotz
-  - Creatures And Beasts (pending)		rubyr1derr
-  - Ghostly							            	ILikeMonsters1890
-  - The Summoner					        		Daveyx0
-  - Web Slinger						          	Stormwind99
-  	- Weaker Spiderwebs				      	Serilum
-  - Zombie Awareness				      		Corosus
-  - Stalker Creepers					      	atomicstrykergrumpy
-  - Mad Villagers						        	Kashdeya
-  - Rabbits Breed Like Rabbits		  	The_Fireplace
-  - Illuminations						        	doctor4t
-  - Mob Dismemberment				      		ohaiiChun
+  - Primitive Mobs					        	[Daveyx0]
+  - Abyssal Depths					        	[Chumbanotz]
+  - Creatures And Beasts (pending)		[rubyr1derr]
+  - Ghostly							            	[ILikeMonsters1890]
+  - The Summoner					        		[Daveyx0]
+  - Web Slinger						          	[Stormwind99]
+  	- Weaker Spiderwebs				      	[Serilum]
+  - Zombie Awareness				      		[Corosus]
+  - Stalker Creepers					      	[atomicstrykergrumpy]
+  - Mad Villagers						        	[Kashdeya]
+  - Rabbits Breed Like Rabbits		  	[The_Fireplace]
+  - Illuminations						        	[doctor4t]
+  - Mob Dismemberment				      		[ohaiiChun]
   
 	SUPPORTING
-  - 1.13 Water Mechanics 			    		xFrah
-  - Baubles							            	Azanor13
-  - Double Doors				        			Serilum
-  - Ender Crop					          		DrManganese
-  - Harder Branch Mining			    		MacTso
+  - 1.13 Water Mechanics 			    		[xFrah]
+  - Baubles							            	[Azanor13]
+  - Double Doors				        			[Serilum]
+  - Ender Crop					          		[DrManganese]
+  - Harder Branch Mining			    		[MacTso]
   
 	PLAYER INFORMATION & UTILITY
-  - Just Enough Items (JEI)			    	mezz
-  	- Just Enough Pattern Banners		  Lorexe
-  - stimmedcow : NoMoreRecipeConflict	GotoLink
-  - More Player Models					      Noppes_
-  - Guidebook						          		gigaherz
-  - ClaimIt							            	ist_meow
-  - Hardcore Revival			      			BlayTheNinth
-  - Wings								            	pau101
-  - Antique Atlas					        		Hunternif
-  - Palimpsest						          	Stormwind99
-  - Pantography						          	Stormwind99
-  - Tool Belt						          		BlayTheNinth
-  - Waystones						          		BlayTheNinth
-  - AppleSkin							          	squeek502
-  - Remove Mouseover Highlight	  		MrAmericanMike
-  - CleanView							          	LainMI
-  - Toast Control						        	Shadows_of_Fire
-  - Fast Leaf Decay					        	olafskiii
-  - Harvestables						        	TechnicianLP
-  - Mouse Tweaks						        	YaLTeR
-  - Nametags Tweaks				        		HunterzCZ
-  - Oxygen: Exchange				       		austeretony
-  - Oxygen: Mail					         		austeretony
-  - Oxygen: Market			        			austeretony
-  - Sit									              bl4ckscor3
-  - The One Probe					        		McJty
+  - Just Enough Items (JEI)			    	[mezz]
+  	- Just Enough Pattern Banners		 [ Lorexe]
+  - stimmedcow : NoMoreRecipeConflict	[GotoLink]
+  - More Player Models					      [Noppes_]
+  - Guidebook						          		[gigaherz]
+  - ClaimIt							            	[ist_meow]
+  - Hardcore Revival			      			[BlayTheNinth]
+  - Wings								            	[pau101]
+  - Antique Atlas					        		[Hunternif]
+  - Palimpsest						          	[Stormwind99]
+  - Pantography						          	[Stormwind99]
+  - Tool Belt						          		[BlayTheNinth]
+  - Waystones						          		[BlayTheNinth]
+  - AppleSkin							          	[squeek502]
+  - Remove Mouseover Highlight	  		[MrAmericanMike]
+  - CleanView							          	[LainMI]
+  - Toast Control						        	[Shadows_of_Fire]
+  - Fast Leaf Decay					        	[olafskiii]
+  - Harvestables						        	[TechnicianLP]
+  - Mouse Tweaks						        	[YaLTeR]
+  - Nametags Tweaks				        		[HunterzCZ]
+  - Oxygen: Exchange				       		[austeretony]
+  - Oxygen: Mail					         		[austeretony]
+  - Oxygen: Market			        			[austeretony]
+  - Sit									             [ bl4ckscor3]
+  - The One Probe					        		[McJty]
   
 	SERVER PERFORMANCE & UTILITY
-  - WorldEdit						          		sk89q
-  	- WorldEditCUI Forge Edition 2		sk89q
-  - EndReset							          	V10lator
-  - Restriction						          	davqvist
-  - CraftTweaker					        		Jaredlll08
-  	- External Tweaker			      		Bartz24
-  - PvPTime						            		Guicharguri
-  - Lag'B'Gon Reborn			      			ロ_ロ 
-  - TidyChunk						          		OreCruncher
-  - UniDict							            	WanionCane
-  - TNTUtils						          		ljfa2
-  - AI Improvements 		      				DarkGuardsman
-  - BetterFps							          	Guichaguri
-  - FoamFix							            	asiekierka
-  - Phosphor (Forge)	      					TheRandomLabs
-  - RandomConfigs					        		TheRandomLabs
-  - RandomPatches				        			TheRandomLabs
-  - RandomPortals				        			TheRandomLabs
-  - RandomTweaks				        			TheRandomLabs
+  - WorldEdit						          		[sk89q]
+  	- WorldEditCUI Forge Edition 2		[sk89q]
+  - EndReset							          	[V10lator]
+  - Restriction						          	[davqvist]
+  - CraftTweaker					        		[Jaredlll08]
+  	- External Tweaker			      		[Bartz24]
+  - PvPTime						            		[Guicharguri]
+  - Lag'B'Gon Reborn			      			[ロ_ロ]
+  - TidyChunk						          		[OreCruncher]
+  - UniDict							            	[WanionCane]
+  - TNTUtils						          		[ljfa2]
+  - AI Improvements 		      				[DarkGuardsman]
+  - BetterFps							          	[Guichaguri]
+  - FoamFix							            	[asiekierka]
+  - Phosphor (Forge)	      					[TheRandomLabs]
+  - RandomConfigs					        		[TheRandomLabs]
+  - RandomPatches				        			[TheRandomLabs]
+  - RandomPortals				        			[TheRandomLabs]
+  - RandomTweaks				        			[TheRandomLabs]
   
  	LIBRARY & API 
-  - Charset Lib					          		asiekierka
-  - ClaimIt API						          	ist_meow
-  - ConnectedTexturesMod		    			tterrag1098
-  - CoroUtil							          	Corosus
-  - CreativeCore						        	CreativeMD
-  - CTD Core								          TheMasterGeneral
-  - Hammer (Lib) Core				       		Zeitheron
-  - Heat And Climate Lib				    	defeatedcrow
-  - iChunUtil					          			ohaiiChun
-  - IvToolkit						          		Ivorforce
-  - LibrarianLib				        			wiresegal
-  - LibVulpes							          	zmaster587
-  - LimeLib								            KidsDontPlay
-  - LLibrary								          _ForgeUser11902522
-  - Mantle							            	mDiyo
-  - McJtyLib							          	McJty   
-  - Multi Mob Library				      		Daveyx0
-  - Oxygen Core						          	austeretony
-  - Patchouli							          	Vazkii
-  - Placebo								            Shadows_of_Fire
-  - Potion Core					          		Tmtravlr
-  - Proxy's Lib						          	ProxyNeko
-  - Shadowfacts' Forgelin				    	ShadowfactsDev
-  - Tesla Core Lib					        	face_of_cat
-  - U Team Core						          	HyCraftHD
-  - WanionLib					          			WanionCane
-  - WorldEdit Util Library 		     		Stormwind99
-  - Wumple Util Library				      	Stormwind99
-  - HoloGui								            McJty
+  - Charset Lib					          		[asiekierka]
+  - ClaimIt API						          	[ist_meow]
+  - ConnectedTexturesMod		    			[terrag1098]
+  - CoroUtil							          	[Corosus]
+  - CreativeCore						        	[CreativeMD]
+  - CTD Core								          [TheMasterGeneral]
+  - Hammer (Lib) Core				       		[Zeitheron]
+  - Heat And Climate Lib				    	[defeatedcrow]
+  - iChunUtil					          			[ohaiiChun]
+  - IvToolkit						          		[Ivorforce]
+  - LibrarianLib				        			[wiresegal]
+  - LibVulpes							          	[zmaster587]
+  - LimeLib								           [KidsDontPlay]
+  - LLibrary								          [ForgeUser11902522]
+  - Mantle							            	[mDiyo]
+  - McJtyLib							          	[McJty]
+  - Multi Mob Library				      		[Daveyx0]
+  - Oxygen Core						          	[austeretony]
+  - Patchouli							          	[Vazkii]
+  - Placebo								            [Shadows_of_Fire]
+  - Potion Core					          		[Tmtravlr]
+  - Proxy's Lib						          	[ProxyNeko]
+  - Shadowfacts' Forgelin				    	[ShadowfactsDev]
+  - Tesla Core Lib					        	[face_of_cat]
+  - U Team Core						          	[HyCraftHD]
+  - WanionLib					          			[WanionCane]
+  - WorldEdit Util Library 		     		[Stormwind99]
+  - Wumple Util Library				      	[Stormwind99]
+  - HoloGui								            [McJty]
   
 
 5. CLIENT-SIDE Recommended Mods/Resources:
-  - Mod: Optifine                                         sp614x
-  - Mod: Better Foliage 	                                octarine_noise (works great with most trees)
-  - Mod: Dynamic Surroundings                             OreCruncher
-    -Mod: OreLib							            	              OreCruncher
-  - Resource Pack: Botania Improved Textures              enemeez1
-  - Resource Pack: Pixel Perfect - Atmosphere, OR         Wedhro
-  - Resource Pack: Dramatic Skies (WILL work in 1.12.2)   thebaum64
-  - Resource Pack: Emmisive Light Glow                    ToaNuva
+  - Mod: Optifine                                        [sp614x]
+  - Mod: Better Foliage 	                         [octarine_noise] (works great with most trees)
+  - Mod: Dynamic Surroundings                            [OreCruncher]
+    -Mod: OreLib					 [OreCruncher]
+  - Resource Pack: Botania Improved Textures             [ enemeez1]
+  - Resource Pack: Pixel Perfect - Atmosphere, OR        [ Wedhro]
+  - Resource Pack: Dramatic Skies (WILL work in 1.12.2)  [thebaum64]
+  - Resource Pack: Emmisive Light Glow                   [ToaNuva]
