@@ -81,21 +81,21 @@ WARNING 3: This pack is very close to the ID limit, and not compatible with Just
 4. Mod List & Credits:
 
 	WORLD
-  - Open Terrain Generator (OTG)			team_otg
-	- Biome Bundle						          mc_pitman
-  - The Lost Cities						        McJty
-  - AmbientSounds 3				        		CreativeMD
-  - Nyx								              	Ellpeck
-  - Village Names				        			AstroTibs
-  - Auxiliary Biomes		      				coderbot16
-  - Environs++					          		rollingthunderunderscore
-  - Spooky Biomes					        		ProxyNeko
-  - Plants							            	Shadows_of_Fire
-  - Ferdinand's Flowers			      		c0_0ny
-  - Passable Leaves				        		WhichOnesPink
-  - Better Diving					        		meldexun
-  - CoralReef						          		primetoxinz
-  - Mo' Glowstone					        		TheMasterGeneral
+  - Open Terrain Generator (OTG)			[team_otg]
+	- Biome Bundle						         [ mc_pitman]
+  - The Lost Cities						        [McJty]
+  - AmbientSounds 3				        		[CreativeMD]
+  - Nyx								              	[Ellpeck]
+  - Village Names				        			[AstroTibs]
+  - Auxiliary Biomes		      				[coderbot16]
+  - Environs++					          		[rollingthunderunderscore]
+  - Spooky Biomes					        		[ProxyNeko]
+  - Plants							            	[Shadows_of_Fire]
+  - Ferdinand's Flowers			      		[c0_0ny]
+  - Passable Leaves				        		[WhichOnesPink]
+  - Better Diving					        		[meldexun]
+  - CoralReef						          		[primetoxinz]
+  - Mo' Glowstone					        		[TheMasterGeneral]
   
   BUILDING/DECO
   - Effortless Building				      	Requioss
